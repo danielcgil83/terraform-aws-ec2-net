@@ -1,1 +1,2 @@
-# terraform_aws_ec2_net
+#TERRAFORM CONFIGURATION
+##EC2 and Network creation on AWS
