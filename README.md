@@ -1,7 +1,7 @@
 # EC2 and Network creation on AWS
 
 > Terraform code to create one EC2 instance and all the network necessary to access it from port 22.
-![](https://dashboard.snapcraft.io/site_media/appmedia/2017/05/logo-terraform-38bd0e32.png) ![](https://assets.cloud.im/prod/ux1/images/logos/aws/aws-2x.png)
+<img src="https://repository-images.githubusercontent.com/248124209/7df12300-6940-11ea-841d-6435036cbb29" width="200" height="200"> ![](https://media-exp1.licdn.com/dms/image/C4D0BAQGnoXT8Ty8whg/company-logo_200_200/0/1622566352666?e=2159024400&v=beta&t=N25JIgaaMgiPz6k--dhmMLi1i4ciqUvzNHzOYArQZlo)
 
 ---
 ## Network Module
