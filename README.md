@@ -49,4 +49,4 @@ public_key_path = "../../ssh-keys/aws_ssh_key.pub"
 
 Daniel Gil
 
-[<img src="https://2.bp.blogspot.com/-T2mwdMnQkpI/W2pm1YXGMCI/AAAAAAAAIUU/jwi55-AuipczHEkxZ8KxrtvGU7ldTleeQCLcBGAs/s1600/mail-icon-iconfinder.png" width="50" height="50">](danielcgil83@gmail.com) [<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/60/26/7b/60267ba2-33d6-7d5e-7b61-056e9e448d4c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.png" width="50" height="50">](https://www.linkedin.com/in/daniel-cardoso-gil/)
+[<img src="https://2.bp.blogspot.com/-T2mwdMnQkpI/W2pm1YXGMCI/AAAAAAAAIUU/jwi55-AuipczHEkxZ8KxrtvGU7ldTleeQCLcBGAs/s1600/mail-icon-iconfinder.png" width="50" height="50">](mailto:danielcgil83@gmail.com) [<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/60/26/7b/60267ba2-33d6-7d5e-7b61-056e9e448d4c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.png" width="50" height="50">](https://www.linkedin.com/in/daniel-cardoso-gil/)
