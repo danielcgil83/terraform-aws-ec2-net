@@ -10,19 +10,6 @@ resource "aws_instance" "this" {
   subnet_id                   = module.network.subnet_id
   vpc_security_group_ids      = [module.network.security_group_id]
   associate_public_ip_address = true
-  user_data                   = file("docker.sh")
-
-  provisioner "file" {
-    source      = "docker-compose.yml"
-    destination = "/home/ubuntu/docker-compose.yml"
-  }
-
-  connection {
-    type        = "ssh"
-    user        = "ubuntu"
-    private_key = file(var.key_path)
-    host        = self.public_ip
-  }
 
   tags = merge(
     local.common_tags,
